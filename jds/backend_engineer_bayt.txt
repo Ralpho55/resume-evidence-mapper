@@ -1,0 +1,42 @@
+Software Engineer Back-End
+Bayt.com logo
+Bayt.com
+Beirut · Lebanon
+13 days ago
+Easy Apply  Save
+Featured
+50 Open Positions
+Full time · Entry level · 1 - 3 Years of Experience
+Job Description
+Responsibilities
+
+Understand the Bayt.com application flow for job seekers and the various navigational paths.
+Execute full software development life cycle (SDLC)
+Develop flowcharts, layouts, and documentation to identify requirements and solutions
+Write well-designed, testable code
+Produce specifications and determine operational feasibility
+Integrate software components into a fully functional software system
+Develop software verification plans and quality assurance procedures
+Document and maintain software functionality
+Troubleshoot, debug existing systems
+Comply with project plans and industry standards
+Skills
+Bachelor's degree in computer science, information technology, or equivalent.
+1 -3 years of hands-on experience developing web applications
+Strong knowledge of one of the following programming languages: PHP or Python.
+Experience in one of the famous PHP frameworks, Yii, Laravel, CakePHP
+Proficient in JavaScript, HTML, and CSS.
+Strong problem-solving and critical-thinking abilities
+Familiar with Relational Database Systems, Object-Oriented Programming, and Design Patterns.
+Adequate knowledge of common web security and web application common attacks, with knowledge of prevention methods and techniques.
+Ability to work and thrive in a fast-paced environment, learn rapidly, and master diverse web technologies and techniques.
+Experience with VueJS, Restful APIs is a plus.
+Knowledge of search engine optimization is a plus.
+Experience with code version control, such as Git or SVN, is a plus.
+Preferred candidate
+Years of experience
+1 - 3 years
+Degree
+Bachelor's degree / higher diploma
+Career level
+Entry level

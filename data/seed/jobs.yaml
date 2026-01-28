@@ -1,0 +1,78 @@
+jobs:
+
+  - id: JD001
+    title: "Full Stack Software Engineer"
+    company: "Chapter One"
+    location: "Lebanon"
+    work_mode: "Remote"
+    seniority: "Mid-level"
+    role_cluster: "full_stack_mobile"
+    source: "LinkedIn / Indeed"
+    jd_file: "full_stack_engineer_chapterone.txt"
+    notes: "Strong mobile + TypeScript focus; likely out-of-scope for current profile"
+
+  - id: JD002
+    title: "Junior Web Developer"
+    company: "Ionycs"
+    location: "Beirut, Lebanon"
+    work_mode: "On-site"
+    seniority: "Junior"
+    role_cluster: "web_generalist"
+    source: "LinkedIn"
+    jd_file: "software_engineer_ionycs.txt"
+    notes: "Classic junior web role; broad frontend + backend expectations"
+
+  - id: JD003
+    title: "Back End Developer (Django REST)"
+    company: "York Press"
+    location: "Beirut, Lebanon"
+    work_mode: "On-site"
+    seniority: "Mid-level (inflated)"
+    role_cluster: "backend_python"
+    source: "LinkedIn"
+    jd_file: "backend_engineer_yorkpress.txt"
+    notes: "Requires 3+ years; includes Docker, Redis, Celery; good gap modeling candidate"
+
+  - id: JD004
+    title: "Software Developer"
+    company: "Tree Top Staffing LLC"
+    location: "EMEA"
+    work_mode: "Remote"
+    seniority: "Junior"
+    role_cluster: "software_generalist"
+    source: "LinkedIn"
+    jd_file: "software_engineer_treetop.txt"
+    notes: "Generic software developer role; low technical specificity"
+
+  - id: JD005
+    title: "Software Engineer Back-End"
+    company: "Bayt.com"
+    location: "Beirut, Lebanon"
+    work_mode: "On-site"
+    seniority: "Entry (1–3 years)"
+    role_cluster: "backend_web"
+    source: "Bayt"
+    jd_file: "backend_engineer_bayt.txt"
+    notes: "PHP/Python backend; classic MENA-style backend role"
+
+  - id: JD006
+    title: "Software Developer (Backend SaaS)"
+    company: "Canonical"
+    location: "Remote (Global)"
+    work_mode: "Remote"
+    seniority: "Mid-level (high bar)"
+    role_cluster: "backend_saas"
+    source: "LinkedIn"
+    jd_file: "software_engineer_canonical.txt"
+    notes: "High-quality remote backend role; stretch benchmark, not baseline"
+
+  - id: JD007
+    title: "Backend Engineer"
+    company: "AEMS.ai"
+    location: "Remote (UK-based company)"
+    work_mode: "Remote"
+    seniority: "Mid-level"
+    role_cluster: "backend_python_realtime"
+    source: "Company site / LinkedIn"
+    jd_file: "backend_engineer_aems.txt"
+    notes: "Backend-heavy with websockets, AWS, async; useful for gap analysis"

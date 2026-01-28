@@ -1,0 +1,89 @@
+Chapter One
+Share
+Show more options
+Full Stack Software Engineer
+Lebanon · 1 week ago · Over 100 people clicked apply
+Responses managed off LinkedIn
+
+
+Remote
+
+Full-time
+
+Apply
+
+Save
+Save Full Stack Software Engineer at Chapter One
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for LBP0
+
+
+Show match details
+
+Tailor my resume
+
+Help me stand out
+About the job
+Job Description
+
+We’re looking for Full Stack Software Egineer with strong TypeScript and mobile development skills to join our fully remote team. You’ll lead the charge on building high-impact, scalable mobile applications, collaborating with a global team of engineers, and working within a modern, AI-assisted development workflow.
+
+Send your resume here: service@startchapterone.com
+
+or
+
+apply here: https://eg.indeed.com/job/full-stack-software-engineer-610e60fc5defa9a5
+
+Tech Stack We Love
+
+Core Mobile & Web Stack
+
+Mobile: React Native (Expo + bare workflows)
+Frontend (Web, for cross-collab): React / Next.js
+Backend: NestJS (Node.js), TypeScript, Prisma (ORM)
+Database: PostgreSQL
+API: REST, GraphQL
+
+Also In Use
+
+Python (for data processing & AI agents)
+CI/CD with GitHub Actions
+
+Must-have Tools
+
+Cursor IDE (or proven experience with similar AI-assisted development tools)
+
+You’ll
+
+Design and develop world-class mobile apps with React Native, ensuring responsiveness, accessibility, and performance.
+Implement modular, maintainable code using TypeScript.
+Integrate apps with scalable back-end APIs (NestJS, GraphQL/REST).
+Optimize mobile performance across platforms (iOS and Android).
+Collaborate with designers, web engineers, and back-end developers to deliver polished features end-to-end.
+Contribute to code reviews and CI/CD workflows.
+
+You Have
+
+Proven experience shipping React Native apps to production (must provide portfolio or GitHub links).
+Strong TypeScript knowledge and experience with cross-platform optimization.
+Familiarity with Next.js or React for web is a plus.
+Solid understanding of Git workflows and CI/CD best practices.
+Excellent English communication skills (written and verbal).
+Minimum 3 years of professional experience.
+
+Application Process
+
+Screening call
+Mandatory: Share your proudest GitHub (or App Store/Play Store) project.
+Take-home coding task relevant to mobile stack.
+Live coding session.
+
+Why Join Us?
+
+Fully remote role
+Build cutting-edge mobile apps with modern, AI-assisted workflows
+Growth-driven, collaborative culture
+
+Job Type: Full-time
+
+Work Location: Remote

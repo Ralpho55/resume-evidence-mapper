@@ -1,0 +1,63 @@
+Back End Developer
+Beirut Governorate, Lebanon · 2 weeks ago · Over 100 applicants
+Promoted by hirer · Actively reviewing applicants
+
+
+On-site
+
+Full-time
+
+Easy Apply
+
+Save
+Save Back End Developer at York Press
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for LBP0
+
+
+Show match details
+
+Tailor my resume
+
+Help me stand out
+People you can reach out to
+Notre Dame University - Louaize (NDU) logo
+Notre Dame University - Louaize (NDU) logo
+School alumni from Notre Dame University - Louaize (NDU)
+
+Show all
+Meet the hiring team
+abdulrahman Mansour
+abdulrahman Mansour 
+ 3rd
+Human Resources Specialist | Talent Acquisition officer | recruiter | headhunter
+Job poster
+
+Message
+About the job
+Backend Django REST API Developer
+
+
+
+Key Responsibilities:
+
+Develop and maintain RESTful APIs using Django REST Framework
+Design, optimize, and manage relational database schemas
+Write clean, maintainable, and well-tested Python code
+Participate in code reviews, testing, and CI/CD pipelines.
+Collaborate closely with frontend developers and product stakeholders
+Troubleshoot, debug, and resolve backend issues in production environments
+Ensure high performance and responsiveness of backend systems.
+
+
+Requirements:
+Bachelor's degree in Computer Science or related field
+3+ years of hands-on experience with Django/Django REST Framework
+Strong Python programming skills
+Experience in REST API design and implementation
+Solid understanding of SQL and database design
+Proficient with Git version control
+Familiarity with testing frameworks (e.g., pytest, unittest)
+Experience with Docker in development and deployment workflows
+Redis and Celery experience for asynchronous tasks
+Exposure to CI/CD pipelines and modern development workflows

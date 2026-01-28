@@ -1,0 +1,123 @@
+candidate:
+  id: CAND_001
+  name: "Ralph Yammine"
+  degree: "B.S. Computer Science"
+  institution: "Notre-Dame University – Louaize"
+  graduation: "June 2025"
+  gpa: 3.42
+
+evidence:
+
+  - id: E001
+    type: internship
+    title: "Software Engineering Intern"
+    organization: "Intalio"
+    timeframe: "Jun 2023 – Aug 2023"
+    domain: ["backend", "business_logic", "maintenance"]
+    facts:
+      - "Developed Python/XML-based hospital-management module on Odoo"
+      - "Handled structured patient and appointment data"
+      - "Investigated and fixed defects across data handling and business logic layers"
+      - "Improved UI workflows based on internal testing and user feedback"
+      - "Participated in sprint reviews and requirement discussions"
+    technologies:
+      - Python
+      - XML
+      - Odoo
+    evidence_strength: high
+    verifiability:
+      artifacts: false
+      description: "Internship experience; internal system"
+
+  - id: E002
+    type: academic_project
+    title: "Mood-Based Music Recommendation System"
+    organization: "NDU – Senior Project"
+    timeframe: "Jan 2024 – Dec 2024"
+    domain: ["backend", "ml_integration", "api_integration", "evaluation"]
+    facts:
+      - "Built a full-stack music recommender with a PyTorch ranking model and Flask backend"
+      - "Implemented session-based recommendation logic using play/skip/ratings signals"
+      - "Designed emotion-to-genre preference mapping and feedback-driven update loop"
+      - "Integrated Spotify OAuth2 and Web Playback SDK for playback and interaction tracking"
+      - "Authored a 130+ page technical report covering architecture, data processing, and evaluation"
+      - "Collaborated in a 3-person team using GitHub branching and pull requests"
+    technologies:
+      - Python
+      - Flask
+      - PyTorch
+      - Spotify API
+      - OAuth2
+      - Git
+    evidence_strength: high
+    verifiability:
+      artifacts: true
+      description: "Academic project with report and likely code artifacts"
+
+  - id: E003
+    type: applied_project
+    title: "Shoplite – AI-First Storefront"
+    organization: "Eurisko Academy"
+    timeframe: "Sep 2025 – Oct 2025"
+    domain: ["backend", "api_design", "real_time_systems", "testing"]
+    facts:
+      - "Built a full-stack e-commerce MVP with backend APIs and live order tracking"
+      - "Designed REST APIs for customers, products, orders, and analytics"
+      - "Implemented real-time order status updates using Server-Sent Events (SSE)"
+      - "Persisted order lifecycle state changes in MongoDB"
+      - "Integrated an intent-based support assistant for order status and product queries"
+      - "Implemented guardrails such as intent routing and function limits"
+      - "Wrote unit and integration tests for APIs and assistant logic"
+    technologies:
+      - NodeJS
+      - REST APIs
+      - MongoDB
+      - SSE
+      - Testing (unit + integration)
+    evidence_strength: high
+    verifiability:
+      artifacts: true
+      description: "Applied project with backend focus and test coverage"
+
+  - id: E004
+    type: education
+    title: "Computer Science Coursework"
+    organization: "Notre-Dame University – Louaize"
+    timeframe: "2020 – 2025"
+    domain: ["foundations"]
+    facts:
+      - "Completed coursework in Data Structures and Algorithms using C++"
+      - "Studied Object-Oriented Design using C#"
+      - "Completed Applied Machine Learning coursework using Python"
+    technologies:
+      - C++
+      - C#
+      - Python
+    evidence_strength: medium
+    verifiability:
+      artifacts: false
+      description: "Academic coursework; no standalone artifacts"
+
+skills_summary:
+  programming_languages:
+    - Python
+    - JavaScript
+    - SQL
+  backend_and_systems:
+    - REST API development
+    - Data modeling
+    - Validation logic
+    - Debugging and maintenance
+  databases:
+    - MongoDB
+    - Relational database concepts
+  tooling:
+    - Git
+    - Google Colab
+  ai_and_data:
+    - Model integration (basic)
+    - Evaluation logic
+    - Retrieval-based systems (academic/applied)
+  integration:
+    - OAuth2 (integration-level)
+    - Third-party APIs

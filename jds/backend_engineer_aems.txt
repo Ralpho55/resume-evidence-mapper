@@ -1,0 +1,36 @@
+Backend Engineer
+
+AEMS.ai is a tech startup based in London, looking to expand its remote engineering workforce. AEMS applies state-of-the-art advancements in artificial intelligence to complex project management challenges and strives to deliver a game-changing solution to address persistent industrial problems.
+AEMS.ai strives to create a healthy work culture, where people find meaning in their work and feel that they can make a significant contribution to the company, to our customers and ultimately to society. It is also important for us that employees progress both personally and professionally during their employment and that their job at AEMS is an integral part of their long-term career plan. This new position is a fantastic opportunity to apply your experience, learn and challenge yourself within a small but rapidly growing organization.
+
+
+About the role
+
+The software's backend is the backbone of the product. We are seeking a highly skilled and motivated candidate with a strong programming background to join our team. Your work as a backend developer will significantly influence the success of the product. The activities that you will carry out during the job are:
+Design the logic and write the pseudocode for complex backend functions.
+Develop, test and optimise complex algorithms.
+Design and optimize data and databases.
+Write clean, efficient, scalable and maintainable code in Python.
+Collaborate with cross-functional teams including Design, AI, and Frontend teams to understand requirements and translate them into scalable backend solutions.
+Collaborate with team members to review and debug code.
+Optimise and fine-tune backend systems for performance, scalability, and reliability.
+Create and maintain comprehensive technical documentation.
+Stay up-to-date with industry trends and best practices in backend development and apply them in your work.
+
+
+Required Qualifications
+
+You must have:
+Fluency in Python.
+Strong problem-solving skills, with the ability to think in a structured manner and bring clarity to the work.
+A good understanding of MongoDB
+A good understanding of Websockets.
+A good understanding Django.
+Familiarity with AWS.
+Understanding of Celery, RabbitMQ, and Reddis is a bonus.
+Ability to be a good listener and explain complex matters concisely and clearly.
+Ability to learn quickly
+Positivity and proactivity and commitment to produce high-quality deliverables.
+
+
+If you find this to be an exciting opportunity, please consider applying. We look forward to hearing from you.

@@ -1,0 +1,2 @@
+- Tech job descriptions, especially software engineering jobs, are just diverse as they are abundant. While they share similar requirements, the diversity in the languages in demand means you are left with far fewer options to be good candidate for the position.
+- I noticed a lot that software engineering positions tend to be disguised as full stack development due to requiring expertise in both frontend and backend
