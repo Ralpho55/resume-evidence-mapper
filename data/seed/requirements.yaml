@@ -1,0 +1,128 @@
+requirements:
+
+  - code: API_DESIGN_01
+    category: backend_api
+    description: "Design and implement backend APIs"
+    signals: ["api", "rest", "endpoint", "graphql"]
+
+  - code: API_INTEGRATION_01
+    category: backend_api
+    description: "Integrate backend APIs with client applications"
+    signals: ["integration", "backend service", "client"]
+
+
+  - code: BACKEND_LOGIC_01
+    category: backend_logic
+    description: "Implement backend business logic and algorithms"
+    signals: ["logic", "algorithm", "business rules", "pseudocode"]
+
+  - code: VALIDATION_RULES_01
+    category: backend_logic
+    description: "Implement backend validation and rules enforcement"
+    signals: ["validation", "constraints", "rules"]
+
+ 
+
+  - code: DATA_MODELING_01
+    category: data_modeling
+    description: "Design and work with database schemas and data models"
+    signals: ["schema", "data model", "database design"]
+
+  - code: SQL_CORE_01
+    category: database_sql
+    description: "Write and reason about SQL queries"
+    signals: ["sql", "query", "relational"]
+
+  - code: NOSQL_AWARE_01
+    category: data_modeling
+    description: "Work with document-oriented databases"
+    signals: ["mongodb", "document database"]
+
+ 
+
+  - code: CODE_QUALITY_01
+    category: testing_quality
+    description: "Write clean and maintainable backend code"
+    signals: ["clean code", "maintainable", "best practices"]
+
+  - code: TESTING_UNIT_01
+    category: testing_quality
+    description: "Write unit tests for backend code"
+    signals: ["unit test", "pytest", "unittest"]
+
+  - code: TESTING_INTEGRATION_01
+    category: testing_quality
+    description: "Write integration or end-to-end backend tests"
+    signals: ["integration test", "end-to-end"]
+
+ 
+
+  - code: DEBUGGING_01
+    category: debugging_maintenance
+    description: "Debug and troubleshoot backend systems"
+    signals: ["debug", "troubleshoot", "issue resolution"]
+
+  - code: MAINTENANCE_01
+    category: debugging_maintenance
+    description: "Maintain and improve existing backend systems"
+    signals: ["maintenance", "refactor", "improve"]
+
+
+  - code: SYSTEM_DESIGN_01
+    category: system_design
+    description: "Design modular backend components"
+    signals: ["architecture", "modular", "design"]
+
+  - code: SCALABILITY_01
+    category: system_design
+    description: "Design backend systems with scalability considerations"
+    signals: ["scalable", "performance", "optimize"]
+
+ 
+
+  - code: FRONTEND_INTEGRATION_01
+    category: frontend_integration
+    description: "Integrate backend services with frontend or client interfaces"
+    signals: ["frontend", "ui integration", "client api"]
+
+
+
+  - code: COLLABORATION_01
+    category: collaboration_process
+    description: "Collaborate in team-based software development"
+    signals: ["collaborate", "team", "cross-functional"]
+
+  - code: CODE_REVIEW_01
+    category: collaboration_process
+    description: "Participate in code reviews"
+    signals: ["code review", "peer review"]
+
+  - code: DOCUMENTATION_01
+    category: collaboration_process
+    description: "Write and maintain technical documentation"
+    signals: ["documentation", "specification"]
+
+  
+
+  - code: DEVOPS_AWARENESS_01
+    category: devops_awareness
+    description: "Awareness of CI/CD and deployment workflows"
+    signals: ["ci/cd", "pipeline", "deployment"]
+
+  - code: CONTAINER_AWARE_01
+    category: devops_awareness
+    description: "Awareness of containerization and runtime environments"
+    signals: ["docker", "container"]
+
+ 
+  - code: WEB_SECURITY_01
+    category: backend_logic
+    description: "Understand basic web security and session concepts"
+    signals: ["security", "session", "authentication"]
+
+ 
+
+  - code: COMMUNICATION_01
+    category: collaboration_process
+    description: "Communicate technical concepts clearly"
+    signals: ["communication", "explain"]
