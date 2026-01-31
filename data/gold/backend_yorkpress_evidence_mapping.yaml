@@ -1,0 +1,102 @@
+jd_id: JD003
+candidate_id: CAND_001
+
+evidence_links:
+
+  - requirement: BACKEND_LOGIC_01
+    status: supported
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      Backend business logic implemented across internship
+      (Odoo modules), senior project (recommendation logic),
+      and Shoplite (order lifecycle and state handling).
+
+  - requirement: API_DESIGN_01
+    status: partial
+    evidence_ids: [E002, E003]
+    rationale: >
+      REST APIs were implemented in Flask and Node backends,
+      but resume does not explicitly show API contract design,
+      versioning, or ownership of API specifications.
+
+  - requirement: API_INTEGRATION_01
+    status: supported
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      All three contexts required integrating backend services
+      with clients or external systems (Odoo modules,
+      Spotify APIs, frontend clients).
+
+  - requirement: DATA_MODELING_01
+    status: supported
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      Structured data handled in ERP internship,
+      MongoDB schema usage in Shoplite,
+      and data entities in senior project.
+
+  - requirement: SQL_CORE_01
+    status: partial
+    evidence_ids: [E001, E004]
+    rationale: >
+      Relational database exposure is implied via internship
+      and coursework, but no explicit SQL query writing or
+      schema migrations are stated.
+
+  - requirement: CODE_QUALITY_01
+    status: partial
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      Sustained backend work implies reasonable code quality,
+      but no explicit standards, reviews, or tooling are cited.
+
+  - requirement: TESTING_UNIT_01
+    status: partial
+    evidence_ids: [E003]
+    rationale: >
+      Shoplite mentions unit/integration tests,
+      but testing frameworks, coverage, and depth
+      are not explicitly documented.
+
+  - requirement: DEBUGGING_01
+    status: supported
+    evidence_ids: [E001]
+    rationale: >
+      Internship explicitly involved debugging
+      and fixing issues in an existing system.
+
+  - requirement: MAINTENANCE_01
+    status: supported
+    evidence_ids: [E001]
+    rationale: >
+      Internship work included maintaining and
+      improving existing Odoo modules.
+
+  - requirement: SYSTEM_DESIGN_01
+    status: partial
+    evidence_ids: [E002]
+    rationale: >
+      Senior project report implies architectural thinking,
+      but no explicit ownership of system boundaries,
+      scalability, or production design is stated.
+
+  - requirement: DEVOPS_AWARENESS_01
+    status: unsupported
+    evidence_ids: []
+    rationale: >
+      No evidence of CI/CD pipelines, deployment workflows,
+      or environment automation is present in resume.
+
+  - requirement: CONTAINER_AWARE_01
+    status: unsupported
+    evidence_ids: []
+    rationale: >
+      Docker is explicitly required by the JD,
+      but is not mentioned anywhere in the resume.
+
+  - requirement: COLLABORATION_01
+    status: supported
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      Team-based internship, multi-person senior project,
+      and academy project demonstrate collaboration.

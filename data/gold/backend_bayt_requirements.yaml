@@ -1,0 +1,115 @@
+jd_id: JD005
+title: "Software Engineer Back-End"
+company: "Bayt.com"
+location: "Beirut, Lebanon"
+
+mapped_requirements:
+
+  # =========================
+  # CORE BACKEND CAPABILITIES
+  # =========================
+
+  - code: API_INTEGRATION_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly states responsibility to integrate software components
+      into a fully functional system.
+
+  - code: BACKEND_LOGIC_01
+    importance: must
+    confidence: implied
+    rationale: >
+      Execution of the full SDLC and production of specifications implies
+      implementation of backend logic beyond wiring.
+
+  - code: DATA_MODELING_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly requires familiarity with relational database systems,
+      implying work with structured data models.
+
+  - code: CODE_QUALITY_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly requires writing well-designed and testable code.
+
+  - code: DEBUGGING_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly lists troubleshooting and debugging existing systems.
+
+  - code: MAINTENANCE_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly states maintaining software functionality.
+
+  - code: DOCUMENTATION_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly mentions developing documentation and maintaining it.
+
+  - code: WEB_SECURITY_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly requires knowledge of common web security attacks
+      and prevention methods.
+
+  # =========================
+  # SECONDARY / IMPLIED SKILLS
+  # =========================
+
+  - code: API_DESIGN_01
+    importance: nice
+    confidence: explicit
+    rationale: >
+      RESTful APIs are mentioned as a "plus", indicating relevance but not
+      a hard requirement.
+
+  - code: SQL_CORE_01
+    importance: nice
+    confidence: implied
+    rationale: >
+      Relational database familiarity implies basic SQL usage, but SQL is
+      not explicitly mentioned.
+
+  - code: TESTING_UNIT_01
+    importance: nice
+    confidence: implied
+    rationale: >
+      Testable code and QA responsibilities imply some form of testing,
+      though unit tests are not explicitly required.
+
+  - code: TESTING_INTEGRATION_01
+    importance: nice
+    confidence: implied
+    rationale: >
+      Verification plans and QA procedures suggest system-level testing,
+      but no explicit framework or test type is specified.
+
+  - code: SYSTEM_DESIGN_01
+    importance: nice
+    confidence: implied
+    rationale: >
+      Producing specifications and determining feasibility implies design
+      thinking, but architecture is not explicitly required.
+
+  - code: COLLABORATION_01
+    importance: must
+    confidence: implied
+    rationale: >
+      Execution of the SDLC and adherence to project plans implies working
+      within a team-based development process.
+
+  - code: FRONTEND_INTEGRATION_01
+    importance: nice
+    confidence: explicit
+    rationale: >
+      Proficiency in JavaScript, HTML, and CSS indicates awareness of the
+      frontend boundary, not frontend ownership.

@@ -1,0 +1,95 @@
+jd_id: JD003
+title: "Back End Developer (Django REST)"
+company: "York Press"
+location: "Beirut, Lebanon"
+
+mapped_requirements:
+
+  - code: BACKEND_LOGIC_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly requires hands-on backend development using Django,
+      which necessarily involves implementing backend business logic.
+
+  - code: API_DESIGN_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly states experience in REST API design and implementation.
+
+  - code: API_INTEGRATION_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      REST APIs imply integration between backend services and clients
+      or other backend components.
+
+  - code: DATA_MODELING_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly requires solid understanding of SQL and database design,
+      implying schema and data model work.
+
+  - code: SQL_CORE_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      SQL is explicitly mentioned as a required skill, not implied.
+
+  - code: CODE_QUALITY_01
+    importance: must
+    confidence: implied
+    rationale: >
+      Use of Django and production backend development implies maintainable
+      and structured code, though quality practices are not directly stated.
+
+  - code: TESTING_UNIT_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly lists familiarity with testing frameworks such as
+      pytest or unittest.
+
+  - code: DEBUGGING_01
+    importance: must
+    confidence: implied
+    rationale: >
+      Ongoing backend development and maintenance implicitly requires
+      debugging and issue resolution, though not stated verbatim.
+
+  - code: MAINTENANCE_01
+    importance: must
+    confidence: implied
+    rationale: >
+      Backend roles with persistent services imply maintaining and
+      improving existing systems.
+
+  - code: SYSTEM_DESIGN_01
+    importance: nice
+    confidence: implied
+    rationale: >
+      Backend API development at this level implies some architectural
+      thinking, though no explicit system design language is used.
+
+  - code: DEVOPS_AWARENESS_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      JD explicitly mentions Docker, CI/CD pipelines, and modern
+      development workflows.
+
+  - code: CONTAINER_AWARE_01
+    importance: must
+    confidence: explicit
+    rationale: >
+      Docker is explicitly listed as a required tool.
+
+  - code: COLLABORATION_01
+    importance: must
+    confidence: implied
+    rationale: >
+      Use of Git version control and modern workflows implies
+      collaborative development.
+

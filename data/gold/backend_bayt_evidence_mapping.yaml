@@ -1,0 +1,115 @@
+jd_id: JD005
+candidate_id: CAND_001
+
+evidence_links:
+
+  - requirement: API_INTEGRATION_01
+    status: supported
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      Internship work involved integrating Odoo modules;
+      senior project and Shoplite included REST API integration
+      with external services and frontend clients.
+
+  - requirement: BACKEND_LOGIC_01
+    status: supported
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      Backend logic implemented across internship and projects,
+      including business rules, recommendation logic, and order flows.
+
+  - requirement: DATA_MODELING_01
+    status: supported
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      Evidence shows structured data handling in Odoo,
+      MongoDB schema design in Shoplite,
+      and data modeling in the senior project.
+
+  - requirement: CODE_QUALITY_01
+    status: partial
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      Code quality is implied through sustained backend work,
+      but no explicit evidence of standards enforcement or reviews.
+
+  - requirement: DEBUGGING_01
+    status: supported
+    evidence_ids: [E001]
+    rationale: >
+      Internship explicitly involved debugging and fixing issues
+      in production-like systems.
+
+  - requirement: MAINTENANCE_01
+    status: supported
+    evidence_ids: [E001]
+    rationale: >
+      Internship responsibilities included maintaining
+      and improving existing systems.
+
+  - requirement: DOCUMENTATION_01
+    status: supported
+    evidence_ids: [E002]
+    rationale: >
+      Senior project includes a 130+ page technical report
+      documenting architecture, logic, and evaluation.
+
+  - requirement: WEB_SECURITY_01
+    status: partial
+    evidence_ids: [E004]
+    rationale: >
+      Security knowledge inferred from coursework;
+      no explicit implementation evidence in projects.
+
+  # =========================
+  # SECONDARY / NICE-TO-HAVE
+  # =========================
+
+  - requirement: API_DESIGN_01
+    status: partial
+    evidence_ids: [E002, E003]
+    rationale: >
+      REST APIs were implemented, but no explicit design ownership
+      or API specification artifacts are listed.
+
+  - requirement: SQL_CORE_01
+    status: partial
+    evidence_ids: [E001, E004]
+    rationale: >
+      Relational database exposure exists via internship
+      and coursework, but no explicit SQL-heavy project is listed.
+
+  - requirement: TESTING_UNIT_01
+    status: partial
+    evidence_ids: [E003]
+    rationale: >
+      Shoplite project mentions unit and integration tests,
+      but no quantified coverage or test depth is provided.
+
+  - requirement: TESTING_INTEGRATION_01
+    status: partial
+    evidence_ids: [E003]
+    rationale: >
+      Integration testing implied through SSE and API testing,
+      but not explicitly documented.
+
+  - requirement: SYSTEM_DESIGN_01
+    status: partial
+    evidence_ids: [E002]
+    rationale: >
+      System architecture described in senior project report,
+      but no evidence of large-scale or production architecture.
+
+  - requirement: COLLABORATION_01
+    status: supported
+    evidence_ids: [E001, E002, E003]
+    rationale: >
+      Team-based internship and multi-person academic/applied
+      projects demonstrate collaboration.
+
+  - requirement: FRONTEND_INTEGRATION_01
+    status: partial
+    evidence_ids: [E002, E003]
+    rationale: >
+      Backend integration with frontend clients is evident,
+      but frontend work itself is not claimed.
